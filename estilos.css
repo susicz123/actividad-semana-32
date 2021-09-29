@@ -1,0 +1,56 @@
+.hola{
+	position:absolute;
+	top: 10px;
+	left: 10px;
+	background:pink;
+	width: 1350px;
+	height: 635px;
+}
+.buenas{
+position:absolute;
+	top: 40px;
+	left: 60px;
+	background:black;
+	width: 120px;
+	height: 120px;
+	transition: all 2s 3s;
+	background: url(excel.jpg);
+}
+.buenas:hover{
+height: 500px;
+width: 1250px;
+background-size: cover;
+background:#D7BDE2;
+}
+.hoy{
+	position: absolute;
+	top: 200px;
+	left: 60px;
+	background: black;
+	width: 120px;
+	height: 120px;
+	transition: all 1s 3s;
+	background: url(condicional.jpg);
+
+}
+.hoy:hover{
+	height: 520px;
+	width: 1250px;
+	background:  #D7BDE2;
+}
+.amanecimos{
+	position: absolute;
+	top: 350px;
+	left: 60px;
+	background: black;
+	width: 120px;
+	height: 120px;
+	transition: all 1s 3s;
+	background: url(ayuda.png);
+}
+.amanecimos:hover{
+	height: 520px;
+	width: 1250px;
+	background-size: cover;
+	background:  #D7BDE2;
+}
